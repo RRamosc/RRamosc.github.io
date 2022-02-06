@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/vidarte
 date: 2022-02-28
 venue: 'La Colmena'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+
 ---
 In historically patriarchal societies such as Peru, the topic of sexuality revolves in a context of myths,
 taboos, and lack of information. Within this, sexual dysfunctions are conceived as disorders or
