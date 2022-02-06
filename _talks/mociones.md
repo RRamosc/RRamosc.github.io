@@ -1,5 +1,5 @@
 ---
-title: "Scraper Mociones del Congreso de la República"
+title: "Scraper of Motions - National Congress of Peru"
 collection: scrapers
 permalink: /_talks/mociones
 excerpt: 'This tool scraps every motion presented at the National Congress of Peru during 2021-2026. '
