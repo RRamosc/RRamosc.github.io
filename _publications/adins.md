@@ -1,7 +1,7 @@
 ---
 title: "Dos siglos de pensamiento internacional en el Perú"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/adins
 excerpt: 'RA for Phd. Sebastien Adins.'
 date: 2021-11-01
 venue: 'Journal 1'
