@@ -1,11 +1,10 @@
 ---
-title: "Mociones - Congreso de la República"
+title: "Scraper Mociones del Congreso de la República"
 collection: talks
-type: "Talk"
-permalink: /talks/mociones
-venue: "UC San Francisco, Department of Testing"
-date: 2021-12-01
-location: "San Francisco, California"
+permalink: /_talks/mociones
+excerpt: 'Este scraper extrae todas las mociones presentadas en el Congreso de la República durante el período 2021-2026'
+date: 2021-11-01
+paperurl: 'https://github.com/RRamosc/Scrapers/tree/main/Mociones'
 ---
 
 [Script here](https://github.com/RRamosc/Scrapers/tree/main/Mociones)
